@@ -1,9 +1,3 @@
-// const button = document.querySelector("button");
-
-// button.addEventListener("click", e=>{
-//     console.log("clicked button")
-// })
-
 
 const copy =document.querySelector(".copy-me");
 
